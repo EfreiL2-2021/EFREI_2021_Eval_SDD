@@ -7,12 +7,12 @@
  *********************************************************************/
 #include "LinkedList.h"
 
-int getEvenCount(Element *l) {
+int getEvenCount(Element *linkedList) {
     // TODO
     return 0;
 }
 
-void moveToFront(Element **l) {
+void moveToFront(Element **linkedList) {
     // TODO, à compléter
 }
 
