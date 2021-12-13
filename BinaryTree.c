@@ -13,7 +13,7 @@ int getChildrenLeavesCount(Node* tree) {
     return 0;
 }
 
-Node* getShallowestLeaf(Node* t) {
+Node* getShallowestLeaf(Node* tree) {
     // TODO
     return NULL;
 }
